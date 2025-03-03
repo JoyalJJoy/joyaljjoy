@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/joyaljjoy)
+- [LinkedIn](https://www.linkedin.com/in/joyal-j-joy-410284286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
  
 
 ## Recent Projects
