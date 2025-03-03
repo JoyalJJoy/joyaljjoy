@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🌱 I’m always learning and exploring new technologies.
 - 👯 I’m looking to collaborate on innovative open-source projects.
 - 💬 Ask me about anything related to software development, I'm happy to help!
-- 📫 How to reach me: [joyaljoy@example.com](mailto:joyaljoy298@gmail.com)
+- 📫 How to reach me: [joyaljoy298@gmail.com](mailto:joyaljoy298@gmail.com)
 - ⚡ Fun fact: I love solving complex problems and bringing ideas to life through code.
 
 ## GitHub Stats
