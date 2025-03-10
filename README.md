@@ -24,16 +24,5 @@ Welcome to my GitHub profile!
 - [LinkedIn](https://www.linkedin.com/in/joyal-j-joy-410284286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
  
 
-## Recent Projects
-
-- [Project 1](https://github.com/JoyalJJoy/project1) - Description of project 1.
-- [Project 2](https://github.com/JoyalJJoy/project2) - Description of project 2.
-- [Project 3](https://github.com/JoyalJJoy/project3) - Description of project 3.
-
-## Blog Posts
-
-- [Blog Post 1](https://joyaljjoy.com/blog/post1) - Summary of blog post 1.
-- [Blog Post 2](https://joyaljjoy.com/blog/post2) - Summary of blog post 2.
-- [Blog Post 3](https://joyaljjoy.com/blog/post3) - Summary of blog post 3.
-
+ 
 Thanks for stopping by! 😊
