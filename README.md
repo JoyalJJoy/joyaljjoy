@@ -1,28 +1,47 @@
- # Hi there, I'm Joyal J Joy! 👋
+ # 👋 Hi, I'm Joyal J Joy  
 
-Welcome to my GitHub profile!
+🚀 **Software Developer** | Building cool things with code | Always learning  
 
-## About Me
+---
 
-- 🔭 I’m currently working on exciting projects in the tech industry.
-- 🌱 I’m always learning and exploring new technologies.
-- 👯 I’m looking to collaborate on innovative open-source projects.
-- 💬 Ask me about anything related to software development, I'm happy to help!
-- 📫 How to reach me: [joyaljoy298@gmail.com](mailto:joyaljoy298@gmail.com)
-- ⚡ Fun fact: I love solving complex problems and bringing ideas to life through code.
+## 👨‍💻 About Me  
+- 🔭 Currently working on exciting projects in the **tech industry**  
+- 🌱 Exploring & building with modern web technologies  
+- 🎯 Goal: Contribute to impactful open-source projects and keep leveling up  
+- 💬 Ask me about **software development**—always happy to help!  
+- 📫 Reach me at: [joyaljoy298@gmail.com](mailto:joyaljoy298@gmail.com)  
 
-## GitHub Stats
+---
 
-![JoyalJJoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&theme=radical)
+## 🛠️ Tech Stack & Learning  
 
-## Top Languages
+### 🚀 Core Skills  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&theme=radical)
+### ⚡ Other Tools I Use  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)  
 
-## Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/joyal-j-joy-410284286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
- 
+## 📊 GitHub Stats  
 
- 
-Thanks for stopping by! 😊
+![Joyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&theme=radical&hide_border=true)  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/joyal-j-joy-410284286)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:joyaljoy298@gmail.com)  
+
+---
+
+✨ _Thanks for stopping by! Feel free to check out my projects and drop a ⭐ if you like them._  
