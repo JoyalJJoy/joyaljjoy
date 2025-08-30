@@ -172,28 +172,13 @@ mindmap
 
 ## 🎵 Coding Playlist
 
- ## 🎵 Currently Listening To
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🎵+Lo-Fi+Hip+Hop+Beats;🎶+Electronic+%26+Ambient;🎧+Focus+%26+Coding+Music;🎼+Instrumental+Vibes" alt="Music Typing SVG" />
 
-<div align="center">
-  
-**🎧 My Coding Vibes:**
-  
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Lo--Fi-Hip%20Hop-blueviolet?style=for-the-badge&logo=spotify&logoColor=white" />
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Electronic-Music-blue?style=for-the-badge&logo=spotify&logoColor=white" />
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Ambient-Sounds-green?style=for-the-badge&logo=spotify&logoColor=white" />
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Focus-Beats-orange?style=for-the-badge&logo=spotify&logoColor=white" />
-</td>
-</tr>
-</table>
+**Favourite Coding Genres:**
+- 🎵 Lo-Fi Hip Hop
+- 🎶 Synthwave 
+- 🎧 Ambient Electronic
+- 🎼 Post-Rock Instrumental
 
 </div>
 
