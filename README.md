@@ -172,11 +172,30 @@ mindmap
 
 ## 🎵 Coding Playlist
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
-</div>
+ ## 🎵 Currently Listening To
 
----
+<div align="center">
+  
+**🎧 My Coding Vibes:**
+  
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Lo--Fi-Hip%20Hop-blueviolet?style=for-the-badge&logo=spotify&logoColor=white" />
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Electronic-Music-blue?style=for-the-badge&logo=spotify&logoColor=white" />
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Ambient-Sounds-green?style=for-the-badge&logo=spotify&logoColor=white" />
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Focus-Beats-orange?style=for-the-badge&logo=spotify&logoColor=white" />
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
   <h3>✨ Thanks for visiting my profile! ✨</h3>
