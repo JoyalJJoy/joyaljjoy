@@ -141,10 +141,9 @@ mindmap
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoyalJJoy/JoyalJJoy/output/snake.svg" alt="Snake animation" />
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling" />
 </div>
-
 ---
 
 ## 🌐 Connect With Me
