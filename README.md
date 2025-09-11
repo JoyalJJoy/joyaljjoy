@@ -2,7 +2,8 @@
 
 <div align="center">
   <!-- Replace this src with your chosen GIF URL -->
-  <img align="right" alt="Waving boy in hoodie" width="380" src="https://your-gif-url-here.gif">
+ <img align="right" alt="Coding animation" width="380" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F5D4&center=true&vCenter=true&width=940&lines=Software+Developer;Full+Stack+Engineer;Mobile+App+Creator;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
 
