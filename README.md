@@ -18,7 +18,6 @@
 - 📱 Passionate about **React Native & Expo**
 - 🎯 Goal: **Open-source impact + scalable solutions**
 - 💬 Ask me about **web, mobile, or backend development**
-- 📫 Reach me at: **joyaljoy298@gmail.com**
 - ⚡ Fun fact: Coffee + Code = Happiness ☕
 
 ---
