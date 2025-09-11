@@ -1,9 +1,11 @@
- # 👋 Hi, I'm Joyal J Joy  
+# 👋 Hi, I'm Joyal J Joy  
 
 <div align="center">
+  <!-- Replace this src with your chosen GIF URL -->
+  <img align="right" alt="Waving boy in hoodie" width="380" src="https://your-gif-url-here.gif">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F5D4&center=true&vCenter=true&width=940&lines=Software+Developer;Full+Stack+Engineer;Mobile+App+Creator;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
-/Users/joyaljoy/Downloads/README.md
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JoyalJJoy&color=blueviolet&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/JoyalJJoy?style=flat-square&color=blue" />
@@ -13,8 +15,6 @@
 
 ## 🚀 About Me  
 
-<img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 - 🔭 Currently building **full-stack web & mobile applications**  
 - 🌱 Exploring **Cloud, System Design, and AI tools**  
 - 📱 Passionate about **mobile development with React Native & Expo**  
@@ -22,8 +22,6 @@
 - 💬 Ask me about **web, mobile, or backend development**  
 - 📫 Reach me at: **joyaljoy298@gmail.com**  
 - ⚡ Fun fact: Coffee + Code = Happiness ☕  
-
-<br clear="both" />
 
 ---
 
@@ -76,35 +74,25 @@
 
 ---
 
-## 🎯 Current Focus  
+## 📚 Learning Journey
 
-<div align="center">
+- 🏗️ Diving deeper into **Scalable System Design**  
+- ☁️ Familiarizing more with **Cloud Platforms** (AWS / GCP / Firebase)  
+- 🔐 Improving in **Security, Clean Code, and Best Practices**  
+- 🤖 Trying out basic **AI/ML tooling & automation**  
+- 📱 Expanding work with **React Native + Expo** for mobile apps  
 
-```mermaid
-mindmap
-  root((Joyal))
-    Web
-      React
-      Next.js
-      Tailwind
-    Mobile
-      React Native
-      Expo
-    Backend
-      Node.js
-      Express
-      Databases
-    Tools
-      Git
-      Docker
-      Postman
-    Learning
-      Cloud
-      System Design
-      AI Integration
-```
+---
 
-</div>
+## 🚀 Featured Projects
+
+Here are some recent projects I’m proud of:
+
+- **Mobile Productivity App** – built with **Expo + React Native**, works offline & syncs data  
+- **Next.js + Node.js Web App** – full CRUD, real-time features, styled with Tailwind CSS  
+- **Secure REST APIs** – using Express, JWT / OAuth, tested with Postman  
+- **Firebase & Vercel Deployments** – fast iteration, continuous deployment  
+- **Open-Source Contributions** – fixing bugs, writing documentation, and adding features for community tools  
 
 ---
 
@@ -132,12 +120,6 @@ mindmap
 
 ---
 
-## 🎵 Coding Playlist  
-
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🎧+Lo-Fi+Beats;🎶+Synthwave;🎼+Instrumental+Coding+Flow;⚡+Focus+Boost+Vibes" alt="Music Typing SVG" />
-
----
-
 <div align="center">
   <h3>✨ Thanks for visiting my profile! ✨</h3>
   <p>Check out my repositories and ⭐ your favorites!</p>
@@ -148,10 +130,4 @@ mindmap
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
     <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
   </p>
-</div>
-
----
-
-<div align="center">
-  <sub>🤝 Open to collaborating on impactful projects!</sub>
 </div>
