@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Joyal J Joy
 <div align="center">
- <img align="right" alt="Coding animation" width="320" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F5D4&center=true&vCenter=true&width=940&lines=Software+Developer;Full+Stack+Engineer;Mobile+App+Creator;Always+Learning+%26+Building" alt="Typing SVG" />
+ <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F5D4&center=true&vCenter=true&width=940&lines=Software+Developer;Full+Stack+Engineer;Mobile+App+Creator;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
+
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=JoyalJJoy&color=blueviolet&style=flat-square&label=Profile+Views" />
